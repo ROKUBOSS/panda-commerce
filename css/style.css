@@ -6,3 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.menu_items_color{
+    color: brown !important;
+}
+.custom_padding{
+    padding: 30px 0 !important;
+}
