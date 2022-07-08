@@ -12,3 +12,26 @@
 .custom_padding{
     padding: 10px 0 !important;
 }
+.slider_bg {
+    background: #fceae8;
+}
+.megenta_color{
+    color: #dc3545 !important;
+}
+.buy_now_btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: #dc3545;
+    border: none;
+    color: #fff;
+}
+.catagory_watch{
+    background: orange !important;
+}
+.products_section_style{
+    background: orangered !important;
+    border-radius: 15px;
+}
+.product_style{
+    border-radius: 25px;
+}
