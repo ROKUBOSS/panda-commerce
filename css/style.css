@@ -28,6 +28,14 @@
 .catagory_watch{
     background: orange !important;
 }
+.catagory_shoe{
+    background: blue;
+    
+}
+.catagory_bag{
+    background: orchid;
+
+}
 .products_section_style{
     background: orangered !important;
     border-radius: 15px;
